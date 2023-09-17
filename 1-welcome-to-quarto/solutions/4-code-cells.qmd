@@ -1,0 +1,30 @@
+---
+title: "Code Cells"
+format: html
+execute:
+  fig-height: 5
+  fig-width: 5
+  echo: false
+  warning: false
+---
+
+```{r}
+library(palmerpenguins)
+library(ggplot2)
+
+ggplot(penguins, aes(x = bill_length_mm,
+                     y = bill_depth_mm,
+                     col = island)) +
+  geom_point()
+```
+
+
+```{r}
+library(palmerpenguins)
+library(ggplot2)
+
+ggplot(penguins, aes(x = bill_length_mm,
+                     y = bill_depth_mm,
+                     col = island)) +
+  geom_point()
+```
