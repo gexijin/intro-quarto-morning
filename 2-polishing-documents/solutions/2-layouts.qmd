@@ -1,0 +1,52 @@
+---
+title: "Chicago, Illinois"
+format: 
+  html:
+    theme: litera
+---
+
+Chicago is the most populous city in the U.S. state of Illinois and the third-most populous in the United States after New York City and Los Angeles. With a population of 2,746,388 in the 2020 census, it is also the most populous city in the Midwest. As the seat of Cook County, the second-most populous county in the U.S., Chicago is the center of the Chicago metropolitan area. I've left a picture of it for you at See @fig-center.
+
+## History
+
+Located on the shore of Lake Michigan, Chicago was incorporated as a city in 1837 near a portage between the Great Lakes and the Mississippi River watershed. It grew rapidly in the mid-19th century. In 1871, the Great Chicago Fire destroyed several square miles and left more than 100,000 homeless, but Chicago's population continued to grow. Chicago made noted contributions to urban planning and architecture, such as the Chicago School, the development of the City Beautiful Movement, and the steel-framed skyscraper.
+
+:::{.column-margin}
+Reasons to go:
+
+1. Pizza
+2. Posit::conf
+3. Pizza
+:::
+
+:::{.callout-warning appearance=simple icon=false}
+### Skyscrapers
+
+Chicago has them!
+:::
+
+[![Chicago[^wiki] stretches along Lake Michigan.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Full_chicago_skyline.jpg/1920px-Full_chicago_skyline.jpg){#fig-center height=400 width=400 fig-align=center fig-alt="Aerial view of the cityscape along Lake Michigan."}](https://en.wikipedia.org/wiki/Chicago)
+
+
+### The Loop
+
+Some of the United States' tallest towers are located in Chicago; Willis Tower (formerly Sears Tower) is the second tallest building in the Western Hemisphere after One World Trade Center, and Trump International Hotel and Tower is the third tallest in the country. The Loop's historic buildings include the Chicago Board of Trade Building, the Fine Arts Building, 35 East Wacker, and the Chicago Building, 860-880 Lake Shore Drive Apartments by Mies van der Rohe. Many other architects have left their impression on the Chicago skyline such as Daniel Burnham, Louis Sullivan, Charles B. Atwood, John Root, and Helmut Jahn.
+
+:::{#loop layout="[[1,1],[1]]"}
+
+![The Chicago Building](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2010-03-03_1856x2784_chicago_chicago_building.jpg/800px-2010-03-03_1856x2784_chicago_chicago_building.jpg){#chicagobuilding width=250}
+
+![The Chicago River in winter.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Steam_Rising_from_Chicago_River.jpg/1024px-Steam_Rising_from_Chicago_River.jpg){#coldriver}
+
+![Chicago River Ferry.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chicago_River_ferry.jpg/1920px-Chicago_River_ferry.jpg){#ferry}
+
+Three views of the cityscape near the loop.
+:::
+
+Here's a big beautiful picture!
+
+:::{.column-screen}
+![A view of the loop at sunset.](https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2144&q=80){#sunset}
+:::
+
+[^wiki]: the text content and images are all from the Wikipedia page linked above.
