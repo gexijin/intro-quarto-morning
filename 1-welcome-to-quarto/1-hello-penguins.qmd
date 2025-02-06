@@ -4,7 +4,7 @@ author: Kristen Gorman
 format: html
 ---
 
-## Data
+## Data test testst
 
 For this analysis we'll use the penguins dataset from the palmerpenguins package.
 
@@ -15,7 +15,8 @@ For this analysis we'll use the penguins dataset from the palmerpenguins package
 library(tidyverse)
 library(ggthemes)
 library(palmerpenguins)
-library(gt)
+library(gt)  # commmsds
+
 ```
 
 ## Species
